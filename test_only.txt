@@ -1,3 +1,0 @@
-lmao
-lolol
-Non-fast-forward merge without conflicts.
