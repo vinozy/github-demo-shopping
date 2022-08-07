@@ -1,0 +1,1 @@
+Make a commit in local master branch.
